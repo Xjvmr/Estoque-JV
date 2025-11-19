@@ -1,1 +1,9 @@
-INTALE NA SUA MAQUINA OU EM UMA VENV A BIBLIOTECA METPLOTLIB PELO COMANDO "pip install matplotlib"
+COMO RODAR O SISTEMA 
+
+Instale o METPLOTLIB pelo comando 'pip install matplotlib' em sua maquina ou venv
+
+criar uma venv -> python -m venv "nome_venv"
+após isso ligue-a -> .\nome_venv\Scripts\Activate.ps1 
+instale o matplotlib -> pip install matplotlib 
+
+Rode o programa com -> python .\JV-UDf.py
